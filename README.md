@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @m11a
-- 👀 I’m a product manager at Pleo, a fintech company from Denmark and based in London.
+- 👀 I’m a product manager in London
 - 🌱 I’m currently learning getting back to coding, used to do it more loong time ago and now slowly getting back to it through my own projects
 - 🍣 Mostly my projects are somehow always connected with food
 
